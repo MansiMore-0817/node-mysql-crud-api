@@ -24,7 +24,7 @@ GET /api/user/:id
 PUT /api/user/:id  
 DELETE /api/user/:id  
 
-## Screenshots
+## Screenshots(for quick reference)
 
 ### Create User (POST)
 ![Create User](screenshots/postman-create-user.png)
@@ -34,6 +34,8 @@ DELETE /api/user/:id
 
 ### MySQL Users Table
 ![MySQL Table](screenshots/mysql-users-table.png)
+
+
 
 
 
