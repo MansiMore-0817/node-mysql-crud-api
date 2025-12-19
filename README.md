@@ -24,6 +24,19 @@ GET /api/user/:id
 PUT /api/user/:id  
 DELETE /api/user/:id  
 
+## Screenshots
+
+### Create User (POST)
+![Create User](screenshots/postman-create-user.png)
+
+### Get Users (GET)
+![Get Users](screenshots/postman-get-users.png)
+
+### MySQL Users Table
+![MySQL Table](screenshots/mysql-users-table.png)
+
+
+
 ## Setup Instructions
 1. Clone the repository
 2. Run `npm install`
